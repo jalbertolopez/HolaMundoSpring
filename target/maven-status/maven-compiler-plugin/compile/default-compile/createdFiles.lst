@@ -1,0 +1,6 @@
+com\beeva\app\App.class
+com\beeva\app\spring\core\utils\Calculadora.class
+com\beeva\app\spring\core\figures\Figura.class
+com\beeva\app\spring\core\figures\Triangulo.class
+com\beeva\app\spring\core\figures\Rectangulo.class
+com\beeva\app\spring\core\main\App.class
